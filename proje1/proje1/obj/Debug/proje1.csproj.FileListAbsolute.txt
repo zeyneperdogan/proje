@@ -1,0 +1,10 @@
+C:\Users\neper\source\repos\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\neper\source\repos\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\neper\source\repos\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\neper\source\repos\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\neper\source\repos\proje1\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\neper\source\repos\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\neper\source\repos\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\neper\source\repos\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\neper\source\repos\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\neper\source\repos\proje1\proje1\obj\Debug\proje1.pdb
